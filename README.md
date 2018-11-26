@@ -1,4 +1,4 @@
-# UIUX-Busan-Frontend-Boilerplate
+# React Quick starter
 
 ## 시작하기
 
